@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><Pedido fecha="1999-10-20" web="https://www.miempresa.org/pedidos">
+    	
+    <producto codigo="872-AA">
+        		
+        <nombre>Cortadora de cesped</nombre>
+        		
+        <cantidad>1</cantidad>
+        		
+        <precio>148.95</precio>
+        	
+    </producto>
+    	
+
+    <producto codigo="930-AH">
+        <nombre>MotoSierra</nombre>
+        <cantidad>2</cantidad>
+        <precio>354.78</precio>
+    </producto>
+</Pedido>

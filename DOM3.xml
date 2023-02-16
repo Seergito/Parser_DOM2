@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><restaurante web="https://mirestaurante.org">
+    <datosfiscales>
+        <gerente>Alicia Abad</gerente>
+        <direccion>Plaza de la duquesa 12</direccion>
+        <nif>11222333A</nif>
+    </datosfiscales>
+    <menu ID="1">
+        <nombre>1</nombre>
+        <precio>1</precio>
+        <calorias>1</calorias>
+    </menu>
+    <menu ID="2">
+        <nombre>1</nombre>
+        <precio>1</precio>
+        <calorias>1</calorias>
+    </menu>
+    <menu ID="3">
+        <nombre>3</nombre>
+        <precio>3</precio>
+        <calorias>3</calorias>
+    </menu>
+</restaurante>

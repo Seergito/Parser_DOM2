@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso>
+	<alumno id="a1">
+		<nombre>John Smith</nombre>
+		<programacion>8</programacion>
+		<acceso>9</acceso>
+	</alumno>
+	<alumno id="a2">
+		<nombre>George Lucas</nombre>
+		<programacion>5</programacion>
+		<acceso>6</acceso>
+	</alumno>
+	<alumno id="a3">
+		<nombre>Elizabeth Roberts</nombre>
+		<programacion>3</programacion>
+		<acceso>4</acceso>
+	</alumno>
+</curso>

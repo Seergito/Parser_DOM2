@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ventas>
+	<Vendedor ID="1">
+		<Nombre>Antonio</Nombre>
+		<Apellidos>Rodriguez Hernandez</Apellidos>
+		<Ventas>2000.3</Ventas>
+	</Vendedor>
+	<Vendedor ID="2">
+		<Nombre>Jesus</Nombre>
+		<Apellidos>Lopez Aguliar</Apellidos>
+		<Ventas>4000.5</Ventas>
+	</Vendedor>
+	<Vendedor ID="3">
+		<Nombre>Andrea</Nombre>
+		<Apellidos>Garcia Caceres</Apellidos>
+		<Ventas>500</Ventas>
+	</Vendedor>
+</Ventas>
